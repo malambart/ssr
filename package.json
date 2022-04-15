@@ -1,0 +1,14 @@
+{
+  "name": "isios-ssr",
+  "version": "1.0.0",
+  "description": "A server-side rendering utility.",
+  "main": "render.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis Lafortune",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.5.2"
+  }
+}
